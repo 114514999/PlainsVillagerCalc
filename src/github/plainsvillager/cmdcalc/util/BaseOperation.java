@@ -1,8 +1,9 @@
-package github.plainsvillager.cmdcalc.utils;
+package github.plainsvillager.cmdcalc.util;
 
 import java.math.BigDecimal;
 
-public final class BaseOperation {
+@Deprecated
+public sealed class BaseOperation permits BaseOperationV2 {
     public static void plus(String a, String b) {
         System.out.println((new BigDecimal(a).add(new BigDecimal(b))));
     }
