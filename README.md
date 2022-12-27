@@ -5,6 +5,8 @@
 - 这个计算器虽然Lj但是小巧灵活
 - Jre 17下载：[17](https://bell-sw.com/pages/downloads/#/java-17-lts)
 - 作者的[b站：](https://space.bilibili.com/515204296)
+- [Gitee镜像：](https://gitee.com/plainsvillager/PlainsVillagerCalc)
+- [GitHub:](https://github.com/PlainsVillager/PlainsVillagerCalc)
 
 ### 运行计算器：
 
