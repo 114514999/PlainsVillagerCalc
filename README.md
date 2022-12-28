@@ -14,3 +14,8 @@
 2. 解压后打开运行runme.bat（戳啦，作者不会放毒啦
 
 ### how to use 如何使用
+
+### 鸣谢
+1. PlainsVillager 所有者 作者事一个13岁的初中生，给个赞罢（悲
+2. True0rFa1se 贡献者 & 支持者
+3. 山丘Hill 支持者
