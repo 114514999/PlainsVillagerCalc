@@ -1,7 +1,10 @@
-package github.plainsvillager.cmdcalc;
+package github.plainsvillager.cmdcalc.deprecated;
 
 import java.math.BigDecimal;
 import java.util.Scanner;
+
+import github.plainsvillager.cmdcalc.CalculatorVersion;
+import github.plainsvillager.cmdcalc.MainCatausVersion;
 import github.plainsvillager.cmdcalc.util.BaseOperation;
 
 /**

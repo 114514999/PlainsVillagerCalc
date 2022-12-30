@@ -18,6 +18,7 @@
 配置环境变量后，在目录运行`java -jar PlainsVillagerCalc.jar`)
 
 ### 鸣谢
+
 1. PlainsVillager 所有者 作者事一个13岁的初中生，给个赞罢（悲
 2. True0rFa1se 贡献者 & 支持者
 3. 山丘Hill 支持者

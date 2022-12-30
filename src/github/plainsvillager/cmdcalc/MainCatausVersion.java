@@ -8,13 +8,15 @@ import java.util.Scanner;
 /**
  * Started in 0.1-beta.4
  * <h2>I M T HE MA IN C L A SS ! ! !叫我爸爸（bushi</h2>
- *
+ * RUN ME I M THE MAIN CLASS
+ * @JDKVersion 17.0.5 ZULU
  * @author PlainsVillager
  * @version 0.2-beta.2
  * @since 0.2-beta.2
  */
 public class MainCatausVersion {
     public static void main(String[] args) {
+        //@Deprecated
         //CalcCore c = new CalcCore();
         welcome();
         Scanner sc = new Scanner(System.in);
@@ -36,13 +38,13 @@ public class MainCatausVersion {
                     while (true) {
                         String c = sc.next(); // 继续
 
-                        /**
-                         * 持续运算已实现 (ohhhhhhhh
-                         * 上一步结束运算后按continue，在输入操作符即可
-                         * @author PlainsVillager
-                         * @version 0.2-beta.2
-                         * @since   0.2-beta.2
-                         */
+
+                        //持续运算已实现 (ohhhhhhhh)，但还需要完善
+                        //上一步结束运算后按continue，在输入操作符即可
+                        //author PlainsVillager
+                        //version 0.2-beta.2
+                        //since   0.2-beta.2
+                        System.out.println("如果想以上次运算的结果继续运算，请输入continue");
                         if(c.equals("continue")){
                             System.out.println(cTemp(temp));
                         }else {
@@ -67,7 +69,7 @@ public class MainCatausVersion {
         System.out.println(intro);
     }
 
-    //计算，不要说方法名垃圾
+    //计算，不要说方法名垃圾，因为命令是--c
     private static String c() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("请输入被操作数1：");
