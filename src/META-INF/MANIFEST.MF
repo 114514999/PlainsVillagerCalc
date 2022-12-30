@@ -1,3 +1,2 @@
 Manifest-Version: 1.0
-Main-Class: github.plainsvillager.cmdcalc.deprecated.Main
-
+Main-Class: github.plainsvillager.cmdcalc.MainCatausVersion
